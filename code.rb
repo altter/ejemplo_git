@@ -76,3 +76,4 @@ class AvatarsController < ApplicationController
       {repo: params[:repo], visage: params[:file]}
     end
 end
+puts 'hola mundo'
